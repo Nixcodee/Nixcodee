@@ -35,15 +35,6 @@
 
 > Pin these on your profile (top-right "Customize your pins") once created.
 
-<br>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nixcodee&show_icons=true&theme=dark" alt="Nixcodee's GitHub stats" />
-</p>
-
-<br>
 
 ## 📫 Contact
 
